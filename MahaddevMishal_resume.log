@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.16)  19 APR 2018 22:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.16)  19 APR 2018 22:33
 entering extended mode
 **./MahaddevMishal_resume.tex
 (MahaddevMishal_resume.tex
@@ -293,7 +293,7 @@ LaTeX Info: Redefining \nameref on input line 11.
 \@outlinefile=\write3
 \openout3 = `MahaddevMishal_resume.out'.
 
-<photo.jpg, id=7, 1349.04pt x 1745.77219pt>
+<photo.jpg, id=11, 1349.04pt x 1745.77219pt>
 File: photo.jpg Graphic file (type jpg)
 <use photo.jpg>
 Package pdftex.def Info: photo.jpg  used on input line 15.
@@ -322,15 +322,37 @@ Overfull \hbox (6.42152pt too wide) in paragraph at lines 52--53
  | 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
-[1
+
+Overfull \hbox (6.42152pt too wide) in paragraph at lines 70--71
+ | 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 77.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 77.
+ [1
 
 {C:/Users/mishalmahadev/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./p
 hoto.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
+Overfull \hbox (4.03198pt too wide) in paragraph at lines 92--93
+[]\OT1/cmr/m/n/10 India In-no-va-tion chal-lenge de-sign con-test by Texas In-s
+tru-ments and IIM Ban-ga-lore.\OT1/cmr/bx/n/10 (Quarter
+ []
+
+
+Overfull \hbox (6.42152pt too wide) in paragraph at lines 108--109
+ | 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (MahaddevMishal_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 57.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 57.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
 
 
 Package rerunfilecheck Warning: File `MahaddevMishal_resume.out' has changed.
@@ -338,24 +360,25 @@ Package rerunfilecheck Warning: File `MahaddevMishal_resume.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `MahaddevMishal_resume.out':
-(rerunfilecheck)             Before: 3F55A32DAEB9F2D80C5682F601749B6F;52
-(rerunfilecheck)             After:  0827042D012B4E93974462D6A717F2FA;97.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 57.
+(rerunfilecheck)             Before: 0827042D012B4E93974462D6A717F2FA;97
+(rerunfilecheck)             After:  FACB96F22801076460B16789D7AD4727;186.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 5562 strings out of 493305
- 82946 string characters out of 3138850
- 173808 words of memory out of 3000000
- 9088 multiletter control sequences out of 15000+200000
+ 5588 strings out of 493305
+ 83299 string characters out of 3138850
+ 178808 words of memory out of 3000000
+ 9103 multiletter control sequences out of 15000+200000
  4553 words of font info for 17 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,8n,32p,220b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,8n,32p,308b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on MahaddevMishal_resume.pdf (1 page, 621679 bytes).
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on MahaddevMishal_resume.pdf (2 pages, 641142 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
- 14 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 50 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
 
